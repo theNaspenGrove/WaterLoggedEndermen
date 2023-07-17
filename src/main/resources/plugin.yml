@@ -2,3 +2,6 @@ name: WaterLoggedEndermen
 version: '${project.version}'
 main: net.mov51.waterloggedendermen.WaterLoggedEndermen
 api-version: '1.20'
+author: Mov51
+description: Prevent endermen from teleporting to waterlogged blocks *properly*
+website: wiki.naspen.mov
