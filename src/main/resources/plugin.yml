@@ -1,0 +1,4 @@
+name: WaterLoggedEndermen
+version: '${project.version}'
+main: net.mov51.waterloggedendermen.WaterLoggedEndermen
+api-version: '1.20'
